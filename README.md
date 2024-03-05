@@ -1,8 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20my%20profile!&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20my%20profile!&fontSize=60&animation=twinkling" />
 </div>
 </br>
 <div align="center">
+  <h1>Contact</h1>
+    <a href="[https://www.instagram.com/6_o777/](https://www.instagram.com/heon.ey/)">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:kdh10045098@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a>
+  </br>
   <h1>Stacks</h1>
   <img alt="Java"src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
   <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
