@@ -4,7 +4,7 @@
 </br>
 <div align="center">
   <h1>Contact</h1>
-    <a href="[https://www.instagram.com/6_o777/](https://www.instagram.com/heon.ey/)">
+    <a href="https://www.instagram.com/6_o777/](https://www.instagram.com/heon.ey/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:kdh10045098@gmail.com">
